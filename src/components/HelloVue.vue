@@ -1,11 +1,12 @@
 <template>
   <div>
-      <router-view/>
+      Hello Vue
   </div>
 </template>
 
 <script>
 export default {
+  
 }
 </script>
 
