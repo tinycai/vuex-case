@@ -1,6 +1,6 @@
 <template>
-  <div>
-      Hello Vue
+  <div class="container">
+      会员
   </div>
 </template>
 
@@ -9,7 +9,7 @@ export default {
   
 }
 </script>
-
 <style>
 
 </style>
+
